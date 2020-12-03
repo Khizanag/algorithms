@@ -25,3 +25,14 @@
 |	50|Pow(x, n)|https://leetcode.com/problems/powx-n/|Medium|
 |	53|Maximum Subarray|https://leetcode.com/problems/maximum-subarray/|Easy|
 |	58|Length of Last Word|https://leetcode.com/problems/length-of-last-word/|Easy|
+|   66|Plus One|https://leetcode.com/problems/plus-one/|Easy|
+|   67|Add Binary|https://leetcode.com/problems/add-binary/|Easy|
+|   69|Sqrt(x)|https://leetcode.com/problems/sqrtx/|Easy|
+|   70|Climbing Stairs|https://leetcode.com/problems/climbing-stairs/|Easy|
+|   71|Simplify Path|https://leetcode.com/problems/simplify-path/|Medium|
+|   74|Search a 2D Matrix|https://leetcode.com/problems/search-a-2d-matrix/|Medium|
+|   83|Remove Duplicates from Sorted List|https://leetcode.com/problems/remove-duplicates-from-sorted-list/|Easy|
+|   88|Merge Sorted Array|https://leetcode.com/problems/merge-sorted-array/|Easy|
+|   94|Binary Tree Inorder Traversal|https://leetcode.com/problems/binary-tree-inorder-traversal/|Medium|
+|   99|Recover Binary Search Tree|https://leetcode.com/problems/recover-binary-search-tree/|Hard|
+|  100|Same Tree|https://leetcode.com/problems/same-tree/|Easy|
