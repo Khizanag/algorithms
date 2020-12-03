@@ -66,16 +66,16 @@
 |	183|Customers Who Never Order|https://leetcode.com/problems/customers-who-never-order/|Easy|
 |	191|Number of 1 Bits|https://leetcode.com/problems/number-of-1-bits/|Easy|
 |	200|Number of Islands|https://leetcode.com/problems/number-of-islands/|Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
+|	202|Happy Number|https://leetcode.com/problems/happy-number/|Easy|
+|	203|Remove Linked List Elements|https://leetcode.com/problems/remove-linked-list-elements/|Easy|
+|	204|Count Primes|https://leetcode.com/problems/count-primes/|Easy|
+|	206|Reverse Linked List|https://leetcode.com/problems/reverse-linked-list/|Easy|
+|	217|Contains Duplicate|https://leetcode.com/problems/contains-duplicate/|Easy|
+|	219|Contains Duplicate II|https://leetcode.com/problems/contains-duplicate-ii/|Easy|
+|	225|Implement Stack using Queues|https://leetcode.com/problems/implement-stack-using-queues/|Easy|
+|	226|Invert Binary Tree|https://leetcode.com/problems/invert-binary-tree/|Easy|
+|	227|Basic Calculator II|https://leetcode.com/problems/basic-calculator-ii/|Medium|
+|	228|Summary Ranges|https://leetcode.com/problems/summary-ranges/|Easy|
 |	|||Easy|
 |	|||Easy|
 |	|||Easy|
