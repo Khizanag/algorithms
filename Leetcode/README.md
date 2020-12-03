@@ -17,3 +17,11 @@
 |	26|Remove Duplicates from Sorted Array|https://leetcode.com/problems/remove-duplicates-from-sorted-array/|Easy|
 |	27|Remove Element|https://leetcode.com/problems/remove-element/|Easy|
 |	28|Implement strStr()|https://leetcode.com/problems/implement-strstr/| Easy|
+|	35|Search Insert Position|https://leetcode.com/problems/search-insert-position/|Easy|
+|   38|Count and Say|https://leetcode.com/problems/count-and-say/|Easy|
+|	42|Trapping Rain Water|https://leetcode.com/problems/trapping-rain-water/|Hard|
+|	43|Multiply Strings|https://leetcode.com/problems/multiply-strings/|Medium|
+|	49|Group Anagrams|https://leetcode.com/problems/group-anagrams/|Medium|
+|	50|Pow(x, n)|https://leetcode.com/problems/powx-n/|Medium|
+|	53|Maximum Subarray|https://leetcode.com/problems/maximum-subarray/|Easy|
+|	58|Length of Last Word|https://leetcode.com/problems/length-of-last-word/|Easy|
