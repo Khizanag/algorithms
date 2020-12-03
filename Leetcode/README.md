@@ -56,16 +56,16 @@
 |	148|Sort List|https://leetcode.com/problems/sort-list/|Easy|
 |	155|Min Stack|https://leetcode.com/problems/min-stack/|Easy|
 |	167|Two Sum II - Input array is sorted|https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/|Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
+|	168|Excel Sheet Column Title|https://leetcode.com/problems/excel-sheet-column-title/|Easy|
+|	0171|Excel Sheet Column Number|https://leetcode.com/problems/excel-sheet-column-number/|Easy|
+|	0172|Factorial Trailing Zeroes|https://leetcode.com/problems/factorial-trailing-zeroes/|Easy|
+|	0173|Binary Search Tree Iterator|https://leetcode.com/problems/binary-search-tree-iterator/|Medium|
+|	0176|Second Highest Salary|https://leetcode.com/problems/second-highest-salary/|Easy|
+|	181|Employees Earning More Than Their Managers|https://leetcode.com/problems/employees-earning-more-than-their-managers/|Easy|
+|	182|Duplicate Emails|https://leetcode.com/problems/duplicate-emails/|Easy|
+|	183|Customers Who Never Order|https://leetcode.com/problems/customers-who-never-order/|Easy|
+|	191|Number of 1 Bits|https://leetcode.com/problems/number-of-1-bits/|Easy|
+|	200|Number of Islands|https://leetcode.com/problems/number-of-islands/|Easy|
 |	|||Easy|
 |	|||Easy|
 |	|||Easy|
