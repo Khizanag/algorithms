@@ -76,20 +76,20 @@
 |	226|Invert Binary Tree|https://leetcode.com/problems/invert-binary-tree/|Easy|
 |	227|Basic Calculator II|https://leetcode.com/problems/basic-calculator-ii/|Medium|
 |	228|Summary Ranges|https://leetcode.com/problems/summary-ranges/|Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
+|	231|Power of Two|https://leetcode.com/problems/power-of-two/|Easy|
+|	232|Implement Queue using Stacks|https://leetcode.com/problems/implement-queue-using-stacks/|Easy|
+|	235|Lowest Common Ancestor of a Binary Search Tree|https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/|Easy|
+|	237|Delete Node in a Linked List|https://leetcode.com/problems/delete-node-in-a-linked-list/|Easy|
+|	242|Valid Anagram|https://leetcode.com/problems/valid-anagram/|Easy|
+|	257|Binary Tree Paths|https://leetcode.com/problems/binary-tree-paths/|Easy|
+|	258|Add Digits|https://leetcode.com/problems/add-digits/|Easy|
+|	263|Ugly Number|https://leetcode.com/problems/ugly-number/|Easy|
+|	268|Missing Number|https://leetcode.com/problems/missing-number/|Easy|
+|	278|First Bad Version|https://leetcode.com/problems/first-bad-version/|Easy|
+|	283|Move Zeroes|https://leetcode.com/problems/move-zeroes/|Easy|
+|	290|Word Pattern|https://leetcode.com/problems/word-pattern/|Easy|
+|	303|Range Sum Query - Immutable|https://leetcode.com/problems/range-sum-query-immutable/|Easy|
+|	307|Range Sum Query - Mutable|https://leetcode.com/problems/range-sum-query-mutable/|Medium|
 |	|||Easy|
 |	|||Easy|
 |	|||Easy|
