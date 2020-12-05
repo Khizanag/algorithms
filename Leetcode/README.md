@@ -90,6 +90,79 @@
 |	290|Word Pattern|https://leetcode.com/problems/word-pattern/|Easy|
 |	303|Range Sum Query - Immutable|https://leetcode.com/problems/range-sum-query-immutable/|Easy|
 |	307|Range Sum Query - Mutable|https://leetcode.com/problems/range-sum-query-mutable/|Medium|
+|	316|Remove Duplicate Letters|https://leetcode.com/problems/remove-duplicate-letters/|Medium|
+|	326|Power of Three|https://leetcode.com/problems/power-of-three/|Easy|
+|	331|Verify Preorder Serialization of a Binary Tree|https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/|Easy|
+|	338|Counting Bits|https://leetcode.com/problems/counting-bits/|Medium|
+|	342|Power of Four|https://leetcode.com/problems/power-of-four/|Easy|
+|	344|Reverse String|https://leetcode.com/problems/reverse-string/|Easy|
+|	345|Reverse Vowels of a String|https://leetcode.com/problems/reverse-vowels-of-a-string/|Easy|
+|	349|Intersection of Two Arrays|https://leetcode.com/problems/intersection-of-two-arrays/|Easy|
+|	350|Intersection of Two Arrays II|https://leetcode.com/problems/intersection-of-two-arrays-ii/|Easy|
+|	367|Valid Perfect Square|https://leetcode.com/problems/valid-perfect-square/|Easy|
+|	374|Guess Number Higher or Lower|https://leetcode.com/problems/guess-number-higher-or-lower/|Easy|
+|	382|Linked List Random Node|https://leetcode.com/problems/linked-list-random-node/|Medium|
+|	383|Ransom Note|https://leetcode.com/problems/ransom-note/|Easy|
+|	387|First Unique Character in a String|https://leetcode.com/problems/first-unique-character-in-a-string/|Easy|
+|	389|Find the Difference|https://leetcode.com/problems/find-the-difference/|Easy|
+|	392|Is Subsequence|https://leetcode.com/problems/is-subsequence/|Easy|
+|	394|Decode String|https://leetcode.com/problems/decode-string/|Medium|
+|	402|Remove K Digits|https://leetcode.com/problems/remove-k-digits/|Medium|
+|	404|Sum of Left Leaves|https://leetcode.com/problems/sum-of-left-leaves/|Easy|
+|	409|Longest Palindrome|https://leetcode.com/problems/longest-palindrome/|Easy|
+|	412|Fizz Buzz|https://leetcode.com/problems/fizz-buzz/|Easy|
+|	415|Add Strings|https://leetcode.com/problems/add-strings/|Easy|
+|	434|Number of Segments in a String|https://leetcode.com/problems/number-of-segments-in-a-string/|Easy|
+|	441|Arranging Coins|https://leetcode.com/problems/arranging-coins/|Easy|
+|	448|Find All Numbers Disappeared in an Array|https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/|Easy|
+|	451|Sort Characters By Frequency|https://leetcode.com/problems/sort-characters-by-frequency/|Medium|
+|	453|Minimum Moves to Equal Array Elements|https://leetcode.com/problems/minimum-moves-to-equal-array-elements/|Easy|
+|	455|Assign Cookies|https://leetcode.com/problems/assign-cookies/|Easy|
+|	456|132 Pattern|https://leetcode.com/problems/132-pattern/|Easy|
+|	459|Repeated Substring Pattern|https://leetcode.com/problems/repeated-substring-pattern/|Easy|
+|	461|Hamming Distance|https://leetcode.com/problems/hamming-distance/|Easy|
+|	463|Island Perimeter|https://leetcode.com/problems/island-perimeter/|Easy|
+|	476|Number Complement|https://leetcode.com/problems/number-complement/|Easy|
+|	494|Target Sum|https://leetcode.com/problems/target-sum/|Medium|
+|	496|Next Greater Element I|https://leetcode.com/problems/next-greater-element-i/|Easy|
+|	500|Keyboard Row|https://leetcode.com/problems/keyboard-row/|Easy|
+|	501|Find Mode in Binary Search Tree|https://leetcode.com/problems/find-mode-in-binary-search-tree/|Easy|
+|	503|Next Greater Element II|https://leetcode.com/problems/next-greater-element-ii/|Medium|
+|	504|Base 7|https://leetcode.com/problems/base-7/|Easy|
+|	509|Fibonacci Number|https://leetcode.com/problems/fibonacci-number/|Easy|
+|	513|Find Bottom Left Tree Value|https://leetcode.com/problems/find-bottom-left-tree-value/|Easy|
+|	525|Contiguous Array|https://leetcode.com/problems/contiguous-array/|Medium|
+|	530|Minimum Absolute Difference in BST|https://leetcode.com/problems/minimum-absolute-difference-in-bst/|Easy|
+|	538|Convert BST to Greater Tree|https://leetcode.com/problems/convert-bst-to-greater-tree/|Medium|
+|	543|Diameter of Binary Tree|https://leetcode.com/problems/diameter-of-binary-tree/|Easy|
+|	558|Reverse Words in a String III|https://leetcode.com/problems/reverse-words-in-a-string-iii/|Easy|
+|	559|Maximum Depth of N-ary Tree|https://leetcode.com/problems/maximum-depth-of-n-ary-tree/|Easy|
+|	560|Subarray Sum Equals K|https://leetcode.com/problems/subarray-sum-equals-k/|Medium|
+|	561|Array Partition I|https://leetcode.com/problems/array-partition-i/|Easy|
+|	563|Binary Tree Tilt|https://leetcode.com/problems/binary-tree-tilt/|Easy|
+|	572|Subtree of Another Tree|https://leetcode.com/problems/subtree-of-another-tree/|Easy|
+|	575|Distribute Candies|https://leetcode.com/problems/distribute-candies/|Easy|
+|	589|N-ary Tree Preorder Traversal|https://leetcode.com/problems/n-ary-tree-preorder-traversal/|Easy|
+|	590|N-ary Tree Postorder Traversal|https://leetcode.com/problems/n-ary-tree-postorder-traversal/|Easy|
+|	595|Big Countries|https://leetcode.com/problems/big-countries/|Easy|
+|	605|Can Place Flowers|https://leetcode.com/problems/can-place-flowers/|Easy|
+|	606|Construct String from Binary Tree|https://leetcode.com/problems/construct-string-from-binary-tree/|Easy|
+|	617|Merge Two Binary Trees|https://leetcode.com/problems/merge-two-binary-trees/|Easy|
+|	620|Not Boring Movies|https://leetcode.com/problems/not-boring-movies/|Easy|
+|	626|Exchange Seats|https://leetcode.com/problems/exchange-seats/|Medium|
+|	637|Average of Levels in Binary Tree|https://leetcode.com/problems/average-of-levels-in-binary-tree/|Easy|
+|	645|Set Mismatch|https://leetcode.com/problems/set-mismatch/|Easy|
+|	653|Two Sum IV - Input is a BST|https://leetcode.com/problems/two-sum-iv-input-is-a-bst/|Easy|
+|	654|Maximum Binary Tree|https://leetcode.com/problems/maximum-binary-tree/|Medium|
+|	657|Robot Return to Origin|https://leetcode.com/problems/robot-return-to-origin/|Easy|
+|	665|Non-decreasing Array|https://leetcode.com/problems/non-decreasing-array/|Easy|
+|	669|Trim a Binary Search Tree|https://leetcode.com/problems/trim-a-binary-search-tree/|Easy|
+|	671|Second Minimum Node In a Binary Tree|https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/|Easy|
+|	682|Baseball Game|https://leetcode.com/problems/baseball-game/|Easy|
+|	687|Longest Univalue Path|https://leetcode.com/problems/longest-univalue-path/|Easy|
+|	690|Employee Importance|https://leetcode.com/problems/employee-importance/|Easy|
+|	695|Max Area of Island|https://leetcode.com/problems/max-area-of-island/|Medium|
+|	700|Search in a Binary Search Tree|https://leetcode.com/problems/search-in-a-binary-search-tree/|Easy|
 |	|||Easy|
 |	|||Easy|
 |	|||Easy|
@@ -280,77 +353,4 @@
 |	|||Easy|
 |	|||Easy|
 |	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
-|	|||Easy|
+|	1492|The kth Factor of n|https://leetcode.com/problems/the-kth-factor-of-n/|Medium|
